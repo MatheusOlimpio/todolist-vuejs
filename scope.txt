@@ -1,0 +1,7 @@
+Aplicativo TodoList
+
+Todo Lista é composta por:
+- Nome tarefa
+- Descrição
+- Data
+
